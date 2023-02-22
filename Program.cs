@@ -6,8 +6,8 @@ namespace Proměnné
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ahoj, jsem tvůj elektronický papoušek♥");
-            Console.WriteLine("Napiš co mám zvopakovat☺");
+            Console.WriteLine("Ahoj, jsem tvůj  papoušek");
+            Console.WriteLine("Napiš co mám zvopakovat");
             string k_opakovani = Console.ReadLine();
             string zopakovano;
             zopakovano = k_opakovani + "," + k_opakovani + "!";
